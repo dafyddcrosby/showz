@@ -29,6 +29,12 @@ Picks<a name="picks"></a>
 
 #### John
 
+#### Dafydd
+* [Chef Metal](https://github.com/opscode/chef-metal)
+* [OpenBSD](http://www.openbsd.org/)
+* [Test-Driven Infrastructure with Chef](http://shop.oreilly.com/product/0636920030973.do)
+* [The Cuckoo's Egg by Clifford Stoll](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg)
+
 #### Nathen  
 
 #### Brandon (solarce)
